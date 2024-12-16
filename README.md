@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nguyen Dung and I'm an AI engineer from Viet Nam</h2>
+<h2 align="left">Hi 👋! My name is Nguyen Dung you can call me Austin Nguyen and I'm an AI engineer from Viet Nam</h2>
 
 ###
 
