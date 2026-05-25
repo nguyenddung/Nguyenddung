@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 Second-year Artificial Intelligence student at FPT University
+🎓 Third-year Artificial Intelligence student at FPT University
 🔬 Interested in Computer Vision, Deep Learning, and Explainable AI
 🧠 Researching Deepfake Detection using Hybrid ViT-CNN Architectures
 💻 Passionate about AI-powered systems and scalable applications
