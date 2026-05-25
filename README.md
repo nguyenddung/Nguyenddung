@@ -1,36 +1,114 @@
-<h2 align="left">Hi 👋! My name is Nguyen Dung you can call me Austin Nguyen and I'm an AI engineer from Viet Nam</h2>
+# Hi there 👋 I'm Nguyen Duc Dung
 
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Computer+Vision+Researcher;Deepfake+Detection+Developer;Python+%7C+OpenCV+%7C+PyTorch+Enthusiast" />
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlycml2M3dobzN2Y2M0enQzdG0yc2Rwb3FkMHVmbGtiaGRtdzFocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/nguyenddung046" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:infor.nguyenddung@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/nguyen.dung.886857" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+## 🚀 About Me
+
+🎓 Second-year Artificial Intelligence student at FPT University
+🔬 Interested in Computer Vision, Deep Learning, and Explainable AI
+🧠 Researching Deepfake Detection using Hybrid ViT-CNN Architectures
+💻 Passionate about AI-powered systems and scalable applications
+📚 Currently learning advanced Machine Learning & Image Processing
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### AI / Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### Web & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Deepfake Detection Research
+
+> Hybrid ViT-CNN framework with Cross-Attention Fusion for AI-generated image detection.
+
+* Vision Transformer + CNN hybrid architecture
+* Explainable AI integration
+* Research-oriented scalable pipeline
+* Focus on robustness and interpretability
+
+---
+
+### 🎭 Diem Xua – Vietnamese Traditional Costume Project
+
+> A cultural preservation project focusing on Vietnamese traditional clothing.
+
+* Historical storytelling
+* Cultural AI-related exploration
+* Digital preservation concepts
+
+---
+
+### 🖼️ Computer Vision Workshops
+
+Projects involving:
+
+* Harris Corner Detection
+* HOG Feature Extraction
+* Canny Edge Detection
+* Hough Transform
+* Image Transformations with OpenCV
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenddung&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenddung&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🏆 Achievements & Goals
+
+✔️ Researching AI & Deepfake Detection
+✔️ Building scalable AI systems
+✔️ Learning advanced Computer Vision
+🎯 Goal: Publish high-quality AI research papers and contribute to impactful AI products
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nguyenddung)
+
+---
+
+<div align="center">
+
+### ✨ "Building AI systems that are powerful, explainable, and impactful." ✨
+
+</div>
