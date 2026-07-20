@@ -58,16 +58,6 @@
 
 ---
 
-### 🎭 Diem Xua – Vietnamese Traditional Costume Project
-
-> A cultural preservation project focusing on Vietnamese traditional clothing.
-
-* Historical storytelling
-* Cultural AI-related exploration
-* Digital preservation concepts
-
----
-
 ### 🖼️ Computer Vision Workshops
 
 Projects involving:
