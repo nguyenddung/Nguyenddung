@@ -170,14 +170,20 @@ Outside of building, I've also worked as a **tutor**, which taught me to explain
 
 ---
 
-## 🐍 Contributions
+## 📈 Contributions
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenddung&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=203A43&hide_border=true&radius=8" alt="Contribution activity graph" />
+</p>
+
+<!-- Snake animation: re-enable once the "Generate Snake Animation" workflow has run successfully
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenddung/nguyenddung/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nguyenddung/nguyenddung/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenddung/Nguyenddung/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nguyenddung/Nguyenddung/output/github-snake.svg" />
   </picture>
 </p>
+-->
 
 <!-- Footer banner -->
 <p align="center">
