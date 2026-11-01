@@ -176,15 +176,6 @@ Outside of building, I've also worked as a **tutor**, which taught me to explain
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenddung&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=203A43&hide_border=true&radius=8" alt="Contribution activity graph" />
 </p>
 
-<!-- Snake animation: re-enable once the "Generate Snake Animation" workflow has run successfully
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenddung/Nguyenddung/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nguyenddung/Nguyenddung/output/github-snake.svg" />
-  </picture>
-</p>
--->
-
 <!-- Footer banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Open%20to%20talk%20about%20LLM%20apps%2C%20RAG%20%26%20Document%20AI&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="Footer" />
