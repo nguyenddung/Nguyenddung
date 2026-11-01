@@ -1,15 +1,15 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nguyen%20Duc%20Dung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%40%20VinSmart%20Future%20%C2%B7%20Agentic%20RAG%20%C2%B7%20Document%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Nguyen Duc Dung — AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nguyen%20Duc%20Dung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%40%20VinSmart%20Future%20%C2%B7%20LLM%20Applications%20%C2%B7%20Document%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Nguyen Duc Dung — AI Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+Engineer+%40+VinSmart+Future;Agentic+RAG+%26+LLM+pipelines;Document+AI+%E2%80%94+OCR+%2F+IDP;AI+student+%40+FPT+University+(2023%E2%80%932027)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+Engineer+%40+VinSmart+Future;LLM+applications+%26+pipelines;Document+AI+%E2%80%94+OCR+%2F+IDP;AI+student+%40+FPT+University+(2023%E2%80%932027)" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyen-dung-576161235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://atlastrace-ten.vercel.app"><img src="https://img.shields.io/badge/Live_demo-AtlasTrace-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AtlasTrace live demo" /></a>
+  <a href="https://github.com/nguyenddung"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.facebook.com/nguyen.dung.886857?locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
@@ -22,7 +22,7 @@ I build AI systems end to end: from data and retrieval pipelines to deployed pro
 
 | | Focus | What that looks like |
 |---|---|---|
-| 🤖 | **Agentic RAG & LLM pipelines** | Multi-agent RAG (AtlasTrace), LangGraph workflows, token-optimized retrieval with local embeddings |
+| 🤖 | **LLM applications & pipelines** | LangGraph workflows, RAG, token-optimized retrieval with local embeddings |
 | 📄 | **Document AI** | OCR/IDP for Vietnamese contract dossiers (native and scanned PDFs) with bounding-box citations |
 | 📊 | **Applied ML & data** | Recommendation systems, explainable BM25 baselines, synthetic datasets for testing |
 
@@ -45,18 +45,8 @@ I build AI systems end to end: from data and retrieval pipelines to deployed pro
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/nguyenddung/RAG">AtlasTrace</a></h3>
-      <p><b>Multi-agent Agentic RAG</b> — a bilingual (EN/VI) “decision room” where multiple agents retrieve, reason and cite sources.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Agentic_RAG-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <p>🔗 <a href="https://atlastrace-ten.vercel.app"><b>Live demo</b></a> · 💻 <a href="https://github.com/nguyenddung/RAG"><b>Code</b></a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🧑‍💼 TalentScreen AI</h3>
-      <p><b>AI-powered CV screening (B2B SaaS)</b></p>
+      <p><b>AI-powered CV screening (B2B SaaS)</b> · <i>Build Phase — team T010</i></p>
       <ul>
         <li>5-node LangGraph pipeline with bias-reduction guardrails</li>
         <li>Explainable, non-LLM BM25 CV–JD matching baseline</li>
@@ -69,8 +59,26 @@ I build AI systems end to end: from data and retrieval pipelines to deployed pro
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Speech-to-Text meeting room</h3>
+      <p><b>Paperless meeting room</b> at Quang Ninh Provincial Party Committee (OJT, 2026)</p>
+      <ul>
+        <li>Speech-to-Text for meeting minutes</li>
+        <li>Won a provincial-level digital transformation award</li>
+      </ul>
+    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/nguyenddung/RAG">AtlasTrace</a></h3>
+      <p><b>Multi-agent RAG</b> — a bilingual (EN/VI) “decision room” where agents retrieve, reason and cite sources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://atlastrace-ten.vercel.app">Live demo</a> · 💻 <a href="https://github.com/nguyenddung/RAG">Code</a></p>
+    </td>
     <td width="50%" valign="top">
       <h3>📚 CócStudy</h3>
       <p><b>AI study-partner matching platform</b> for Vietnamese university students</p>
@@ -84,14 +92,6 @@ I build AI systems end to end: from data and retrieval pipelines to deployed pro
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Speech-to-Text meeting room</h3>
-      <p><b>Paperless meeting room</b> at Quang Ninh Provincial Party Committee (OJT, 2026)</p>
-      <ul>
-        <li>Speech-to-Text for meeting minutes</li>
-        <li>Won a provincial-level digital transformation award</li>
-      </ul>
     </td>
   </tr>
 </table>
