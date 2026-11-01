@@ -1,10 +1,10 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nguyen%20Duc%20Dung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%40%20VinSmart%20Future%20%C2%B7%20LLM%20Applications%20%C2%B7%20Document%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Nguyen Duc Dung — AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nguyen%20Duc%20Dung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLM%20Applications%20%C2%B7%20Document%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Nguyen Duc Dung — AI Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+Engineer+%40+VinSmart+Future;LLM+applications+%26+pipelines;Document+AI+%E2%80%94+OCR+%2F+IDP;AI+student+%40+FPT+University+(2023%E2%80%932027)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+Engineer+from+Hanoi%2C+Vietnam;LLM+applications+%26+pipelines;Document+AI+%E2%80%94+OCR+%2F+IDP;AI+student+%40+FPT+University+(2023%E2%80%932027)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,11 +17,26 @@
 
 ## 👋 About me
 
-I'm an **AI Engineer at VinSmart Future**, building Document AI for Vietnamese contracts, and an **AI student at FPT University (2023–2027)**.
-I build AI systems end to end: from data and retrieval pipelines to deployed products people can actually use.
+Hi! I'm **Dung**, an AI student at **FPT University (2023–2027)** based in Hanoi, now working as an AI Engineer.
 
-| | Focus | What that looks like |
+I like taking an idea all the way to something people can actually use: cleaning the data, building the retrieval or model pipeline, wiring up the API and UI, and shipping it. Most of what I've learned came from doing exactly that — in hackathons, university lab projects, team build programs and, more recently, real work on Vietnamese documents.
+
+A few things about how I work:
+
+- 🧩 **I finish things.** I'd rather ship a small, complete, deployed product than leave a clever prototype half-done.
+- 🔍 **I keep it explainable.** When an LLM isn't needed, a transparent baseline (like BM25) often is — and it makes the LLM version easier to trust.
+- 💸 **I care about cost.** Local embeddings and smarter retrieval before throwing more tokens at a problem.
+- 🇻🇳 **I build for Vietnamese.** Vietnamese documents, CVs and users are where I spend most of my time.
+
+| | What I'm into | Where it shows up |
 |---|---|---|
+| 🤖 | **LLM applications & pipelines** | LangGraph workflows, RAG, token-optimized retrieval with local embeddings |
+| 📄 | **Document AI** | OCR/IDP for Vietnamese documents, bounding-box citations, human review |
+| 📊 | **Applied ML & data** | Recommendation systems, explainable baselines, synthetic datasets for testing |
+
+Outside of building, I've also worked as a **tutor**, which taught me to explain technical things simply. I'm currently looking to grow further in **AI engineering and data engineering**.
+
+---|---|---|
 | 🤖 | **LLM applications & pipelines** | LangGraph workflows, RAG, token-optimized retrieval with local embeddings |
 | 📄 | **Document AI** | OCR/IDP for Vietnamese contract dossiers (native and scanned PDFs) with bounding-box citations |
 | 📊 | **Applied ML & data** | Recommendation systems, explainable BM25 baselines, synthetic datasets for testing |
