@@ -1,91 +1,131 @@
-# Hi there 👋 I'm Nguyen Duc Dung
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nguyen%20Duc%20Dung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%40%20VinSmart%20Future%20%C2%B7%20Agentic%20RAG%20%C2%B7%20Document%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Nguyen Duc Dung — AI Engineer" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+Engineer+%40+VinSmart+Future;Agentic+RAG+%26+LLM+pipelines;Document+AI+%E2%80%94+OCR+%2F+IDP;AI+student+%40+FPT+University+(2023%E2%80%932027)" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Computer+Vision+Researcher;Deepfake+Detection+Developer;Python+%7C+OpenCV+%7C+PyTorch+Enthusiast" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-🎓 Third-year Artificial Intelligence student at FPT University
-🔬 Interested in Computer Vision, Deep Learning, and Explainable AI
-🧠 Researching Deepfake Detection using Hybrid ViT-CNN Architectures
-💻 Passionate about AI-powered systems and scalable applications
-📚 Currently learning advanced Machine Learning & Image Processing
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyen-dung-576161235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://atlastrace-ten.vercel.app"><img src="https://img.shields.io/badge/Live_demo-AtlasTrace-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AtlasTrace live demo" /></a>
+  <a href="https://www.facebook.com/nguyen.dung.886857?locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About me
 
-### Languages
+I'm an **AI Engineer at VinSmart Future**, building Document AI for Vietnamese contracts, and an **AI student at FPT University (2023–2027)**.
+I build AI systems end to end: from data and retrieval pipelines to deployed products people can actually use.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### AI / Data Science
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-### Web & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+| | Focus | What that looks like |
+|---|---|---|
+| 🤖 | **Agentic RAG & LLM pipelines** | Multi-agent RAG (AtlasTrace), LangGraph workflows, token-optimized retrieval with local embeddings |
+| 📄 | **Document AI** | OCR/IDP for Vietnamese contract dossiers (native and scanned PDFs) with bounding-box citations |
+| 📊 | **Applied ML & data** | Recommendation systems, explainable BM25 baselines, synthetic datasets for testing |
 
 ---
 
-## 🔥 Featured Projects
+## 💼 Experience
 
-### 🧠 Deepfake Detection Research
+**🏢 AI Engineer — VinSmart Future** &nbsp;·&nbsp; *Sep 2026 – Present · Hanoi*
+- Own the OCR component of a Document AI (OCR/IDP) system for Vietnamese contract dossiers (native and scanned PDFs)
+- Evaluate OCR quality on synthetic sample contracts and report results with a structured test report and grading checklist
+- Contribute to clause structure extraction, bounding-box citations, conflict detection and human-in-the-loop review
 
-> Hybrid ViT-CNN framework with Cross-Attention Fusion for AI-generated image detection.
-
-* Vision Transformer + CNN hybrid architecture
-* Explainable AI integration
-* Research-oriented scalable pipeline
-* Focus on robustness and interpretability
-
----
-
-### 🖼️ Computer Vision Workshops
-
-Projects involving:
-
-* Harris Corner Detection
-* HOG Feature Extraction
-* Canny Edge Detection
-* Hough Transform
-* Image Transformations with OpenCV
+**🏛️ On-the-Job Training Intern — Quang Ninh Provincial Party Committee** &nbsp;·&nbsp; *Jan 2026 – Apr 2026*
+- Contributed to a Speech-to-Text paperless meeting room system — 🏆 **provincial-level digital transformation award**
 
 ---
 
-## 🏆 Achievements & Goals
+## 🔥 Featured projects
 
-✔️ Researching AI & Deepfake Detection
-✔️ Building scalable AI systems
-✔️ Learning advanced Computer Vision
-🎯 Goal: Publish high-quality AI research papers and contribute to impactful AI products
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/nguyenddung/RAG">AtlasTrace</a></h3>
+      <p><b>Multi-agent Agentic RAG</b> — a bilingual (EN/VI) “decision room” where multiple agents retrieve, reason and cite sources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agentic_RAG-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://atlastrace-ten.vercel.app"><b>Live demo</b></a> · 💻 <a href="https://github.com/nguyenddung/RAG"><b>Code</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 TalentScreen AI</h3>
+      <p><b>AI-powered CV screening (B2B SaaS)</b></p>
+      <ul>
+        <li>5-node LangGraph pipeline with bias-reduction guardrails</li>
+        <li>Explainable, non-LLM BM25 CV–JD matching baseline</li>
+        <li>Token-optimized retrieval with local embeddings</li>
+        <li>Synthetic Vietnamese CV datasets with ground truth</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 CócStudy</h3>
+      <p><b>AI study-partner matching platform</b> for Vietnamese university students</p>
+      <ul>
+        <li>KNN recommendation engine</li>
+        <li>React + TypeScript frontend with WebSocket chat</li>
+        <li>Packaged with Docker Compose</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Speech-to-Text meeting room</h3>
+      <p><b>Paperless meeting room</b> at Quang Ninh Provincial Party Committee (OJT, 2026)</p>
+      <ul>
+        <li>Speech-to-Text for meeting minutes</li>
+        <li>Won a provincial-level digital transformation award</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenddung) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.dung.886857?locale=vi_VN)
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,nextjs,react,ts,vercel,git,linux&perline=10" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR_%2F_IDP-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" />
+</p>
 
 ---
 
-<div align="center">
+## 🐍 Contributions
 
-### ✨ "Building AI systems that are powerful, explainable, and impactful." ✨
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenddung/nguyenddung/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nguyenddung/nguyenddung/output/github-snake.svg" />
+  </picture>
+</p>
 
-</div>
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Open%20to%20talk%20about%20LLM%20apps%2C%20RAG%20%26%20Document%20AI&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="Footer" />
+</p>
