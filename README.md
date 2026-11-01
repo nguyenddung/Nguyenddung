@@ -113,6 +113,45 @@ Outside of building, I've also worked as a **tutor**, which taught me to explain
 
 ---
 
+## 🧠 Agentic AI toolkit
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✅ Used in my projects</h4>
+      <ul>
+        <li><b>Agent orchestration</b> — stateful graphs with LangGraph, multi-step &amp; multi-agent workflows</li>
+        <li><b>ReAct agents &amp; tool calling</b> — function calling, structured outputs, streaming &amp; retries with the OpenAI API</li>
+        <li><b>RAG</b> — local embeddings, BM25 baselines, retrieval with source citations</li>
+        <li><b>Guardrails</b> — multi-layer checks for bias and output quality</li>
+        <li><b>Context &amp; cost engineering</b> — token budgeting, retrieval before generation</li>
+        <li><b>Evaluation on synthetic data</b> — ground-truth datasets and grading checklists</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔭 Exploring now</h4>
+      <ul>
+        <li><b>MCP (Model Context Protocol)</b> — exposing tools &amp; data to agents through a standard interface</li>
+        <li><b>Agent-to-agent (A2A) patterns</b> — agents delegating to and coordinating with other agents</li>
+        <li><b>LLM observability</b> — tracing agents with Langfuse &amp; OpenTelemetry</li>
+        <li><b>Agent SDKs</b> — OpenAI Agents SDK, Claude Agent SDK</li>
+        <li><b>Agent evals</b> — testing tool use and multi-step behaviour, not just final answers</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool_Calling-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Langfuse-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+</p>
+
+---
+
 ## 🛠️ Tech stack
 
 <p align="center">
