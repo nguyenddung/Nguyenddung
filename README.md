@@ -85,14 +85,15 @@ Outside of building, I've also worked as a **tutor**, which taught me to explain
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/nguyenddung/RAG">AtlasTrace</a></h3>
-      <p><b>Multi-agent RAG</b> — a bilingual (EN/VI) “decision room” where agents retrieve, reason and cite sources.</p>
+      <h3>🧭 <a href="https://github.com/nguyenddung/atlastrace-agentic-rag">AtlasTrace</a></h3>
+      <p><b>Multi-agent RAG</b> — a bilingual (EN/VI) “decision room” where LangGraph agents retrieve, critique and cite Wikipedia passages from XQuAD; Recall@1 ≈ 91–93%, with ablations.</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p>🔗 <a href="https://atlastrace-ten.vercel.app">Live demo</a> · 💻 <a href="https://github.com/nguyenddung/RAG">Code</a></p>
+      <p>🔗 <a href="https://atlastrace-rag.vercel.app">Live demo</a> · 💻 <a href="https://github.com/nguyenddung/atlastrace-agentic-rag">Code</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📚 CócStudy</h3>
